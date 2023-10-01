@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fetchapi/static/css/main.4dac0b83.css",
+    "main.js": "/fetchapi/static/js/main.f65e81a2.js",
+    "index.html": "/fetchapi/index.html",
+    "main.4dac0b83.css.map": "/fetchapi/static/css/main.4dac0b83.css.map",
+    "main.f65e81a2.js.map": "/fetchapi/static/js/main.f65e81a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dac0b83.css",
+    "static/js/main.f65e81a2.js"
+  ]
+}
